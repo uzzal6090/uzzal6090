@@ -5,8 +5,9 @@
 🐍 Python | 🌐 HTML | CSS | JavaScript  
 
 ## 🚀 About Me
-I am a passionate beginner developer learning web development and Python.  
-I enjoy building projects and improving my skills step by step. 
+Hi! I'm Uzzal, a passionate beginner software developer from Bangladesh with a BSc in Computer Science & Engineering (CSE).
+I am actively learning web development, Python programming, and project-based development, and I love building practical projects to improve my coding skills.
+My goal is to become a full-stack software developer, capable of building dynamic and responsive web applications. I am continuously learning front-end frameworks, back-end development, and project-based coding to achieve this goal.I am eager to contribute to real-world projects, collaborate with other developers, and grow as a confident and skilled software developer. 
 
 
 
