@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Uzzal
 
-<!--
-**uzzal6090/uzzal6090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc in Computer Science & Engineering  
+💻 Beginner Software Developer  
+🐍 Python | 🌐 HTML | CSS | JavaScript  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a passionate beginner developer learning web development and Python.  
+I enjoy building projects and improving my skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
+- Basic Machine Learning
+
+## 📂 Projects
+- 🌐 **Portfolio Website** – Personal portfolio  
+- 🍽️ **Restaurant Website** – Responsive website  
+- 📰 **Blog Website** – Front-end blog project  
+- 🌧️ **Weather Prediction (Rain or Not)** – Python ML project  
+
+## 🏆 Certifications
+- Python Certification – DataCamp
+
+## 🔗 Portfolio
+👉 [View My Portfolio Website](https://your-portfolio-link-here)
+
+## 📫 Contact
+- GitHub: https://github.com/your-username
+
