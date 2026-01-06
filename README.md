@@ -6,7 +6,9 @@
 
 ## 🚀 About Me
 I am a passionate beginner developer learning web development and Python.  
-I enjoy building projects and improving my skills step by step.
+I enjoy building projects and improving my skills step by step. 
+
+
 
 ## 🧰 Skills
 - HTML, CSS, JavaScript
@@ -27,5 +29,6 @@ I enjoy building projects and improving my skills step by step.
 👉 [View My Portfolio Website](https://your-portfolio-link-here)
 
 ## 📫 Contact
-- GitHub: https://github.com/your-username
+- Email:hosenuzzal769@gmail.com
+- LinkedIn:https://www.linkedin.com/in/uzzal-hosen-b9ba12395/
 
