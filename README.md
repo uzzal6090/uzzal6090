@@ -8,7 +8,7 @@
 
 # Hi, I'm Uzzal Hosen 👋
 
-### Software Engineer | CSE Graduate | Full-Stack Development & AI Enthusiast
+### Full-Stack WebDeveloper | CSE Graduate | Full-Stack Development & AI Enthusiast
 
 <p>
   <a href="https://github.com/uzzal6090">
@@ -141,26 +141,30 @@ I believe consistent learning, building real projects, and solving meaningful pr
 
 # 🚀 Featured Projects
 
-## 📚 Book Vibe
+ # 📰 Bangla News 24
 
-A modern book discovery and management application built with Next.js and TypeScript.
+ Live link:https://bangla-news-24-two.vercel.app/
 
-**Tech Stack:**
-`Next.js` `TypeScript` `React` `Tailwind CSS`
 
----
+# Technologies Used
+Frontend
+Next.js
+React
+TypeScript
+Tailwind CSS
+HTML5
+CSS3
+# Backend & Authentication
+Better Auth
+MongoDB
+MongoDB Adapter for Better Auth
+API--
 
-## 🛒 HaatBazar
-
-A local marketplace / e-commerce web application designed around the Bangladesh marketplace experience.
-
-**Tech Stack:**
-`React` `JavaScript` `Tailwind CSS` `React Router`
 
 ---
 
 ## 🧑‍💻 DevStack
-
+Live link: https://dev-stack-psi.vercel.app/
 A technology-focused web application that allows users to explore different technologies and build their preferred development stack.
 
 **Tech Stack:**
@@ -171,9 +175,7 @@ A technology-focused web application that allows users to explore different tech
 ## 🌐 Personal Portfolio
 
 A personal portfolio website showcasing my skills, projects, learning journey, and development experience.
-
-**Tech Stack:**
-`HTML5` `CSS3` `JavaScript`
+Live link: https://my-portfolio-project-beta-umber.vercel.app/
 
 ---
 
