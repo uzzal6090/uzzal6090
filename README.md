@@ -27,17 +27,24 @@
 ---
 
 ## 👨‍💻 About Me
+I’m a Computer Science and Engineering graduate and aspiring Software Engineer focused on building practical, user-friendly web applications.
 
-I am a **Computer Science and Engineering graduate** passionate about software development, problem solving, and building practical software applications.
+I’m currently developing my skills in full-stack web development, working with JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, and Tailwind CSS. I enjoy learning software development fundamentals and applying what I learn by building real-world projects.
 
-I am currently developing my skills as a **Software Engineer** with a strong focus on programming fundamentals, modern web development, software engineering principles, and real-world project development.
+**My current focus areas include:**
+- Frontend development with React, Next.js, and TypeScript
+- Backend development with Node.js, Express.js, and REST APIs
+- Database management with MongoDB
+- Authentication and backend security fundamentals using JWT
+- Version control and collaboration using Git and GitHub
+- Problem-solving, debugging, and software engineering best practices
 
-I enjoy understanding the **why behind the code**, not just learning syntax. My learning journey focuses on strengthening my problem-solving ability, data structures and algorithms, object-oriented programming, databases, version control, and system-level thinking.
+I believe the best way to grow as a software developer is through building projects, solving problems, debugging code, and continuously improving my technical skills.
 
-My current development journey includes **full-stack web development**, while I am also exploring **AI and AI-powered software applications**.
+I’m currently open to opportunities as a **Junior Software Engineer, Junior Full-Stack Developer, or Frontend Developer**, where I can contribute to a team, learn from experienced engineers, and grow as a software developer.
 
-I believe consistent learning, building real projects, and solving meaningful problems are the foundation of becoming a strong software engineer.
-
+**Tech I’m working with:**
+JavaScript | TypeScript | React | Next.js | Node.js | Express.js | MongoDB | REST APIs | JWT | HTML5 | CSS3 | Tailwind CSS | Git | GitHub
 ---
 
 # 🧰 Tech Stack
