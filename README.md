@@ -14,6 +14,9 @@
   <a href="https://github.com/uzzal6090">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="(https://my-portfolio-project-beta-umber.vercel.app/)" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
   <a href="https://www.linkedin.com/in/uzzal-hosen-b9ba12395/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
