@@ -214,31 +214,51 @@ Software Engineering
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=uzzal6090&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Uzzal's GitHub Statistics" />
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=uzzal6090&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzzal6090&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzzal6090&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 
 </div>
 
-## 🔥 GitHub Streak
+---
+
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzzal6090&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+  <img width="70%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=uzzal6090&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 
 </div>
+
+---
 
 ## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzzal6090&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
+  <img width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=uzzal6090&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
 
 </div>
+
+---
 
 ---
 
