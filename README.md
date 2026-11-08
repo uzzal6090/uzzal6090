@@ -218,12 +218,10 @@ Software Engineering
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=uzzal6090&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=uzzal6090&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&v=2"
+  alt="GitHub Statistics"
+/>
 
   <img width="49%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzzal6090&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
@@ -249,14 +247,11 @@ Software Engineering
 
 ## 📈 GitHub Contribution Activity
 
-<div align="center">
-
-  <img width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=uzzal6090&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-
-</div>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=uzzal6090&theme=github-compact&hide_border=true&area=true&v=2"
+  width="100%"
+  alt="GitHub Activity"
+/>
 
 ---
 
