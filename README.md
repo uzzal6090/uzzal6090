@@ -1,290 +1,275 @@
-<div align="center">
-  <img
-    src="./github-banner.png"
-    width="100%"
-    alt="Uzzal Hosen - Full Stack Developer"
-  />
+ <div align="center">
+  <img src="./github-banner.png" width="100%" alt="Uzzal Hosen - Full Stack Developer" />
 </div>
 
 <br />
 
-# Hi, I'm Uzzal Hosen 👋
+<h1 align="center">Hi, I'm Uzzal Hosen 👋</h1>
 
-### Full-Stack WebDeveloper | CSE Graduate | Full-Stack Development & AI Enthusiast
+<h3 align="center">Full-Stack Web Developer | CSE Graduate | Software Engineering & AI Enthusiast</h3>
 
-<p>
+<p align="center">
   <a href="https://github.com/uzzal6090">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://my-portfolio-project-beta-umber.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
+  <a href="https://my-portfolio-project-beta-umber.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/uzzal-hosen-b9ba12395/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hsoenuzzal769@gmail.com">
+  <a href="mailto:hosenuzzal769@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-</div>
-
 ---
 
 ## 👨‍💻 About Me
-I’m a Computer Science and Engineering graduate and aspiring Software Engineer focused on building practical, user-friendly web applications.
 
-I’m currently developing my skills in full-stack web development, working with JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, and Tailwind CSS. I enjoy learning software development fundamentals and applying what I learn by building real-world projects.
+I'm a Computer Science and Engineering graduate passionate about building practical, scalable, and user-friendly web applications.
 
-**My current focus areas include:**
-- Frontend development with React, Next.js, and TypeScript
-- Backend development with Node.js, Express.js, and REST APIs
-- Database management with MongoDB
-- Authentication and backend security fundamentals using JWT
-- Version control and collaboration using Git and GitHub
-- Problem-solving, debugging, and software engineering best practices
+I focus on full-stack web development and enjoy turning ideas into functional software through clean code, problem-solving, and continuous learning.
 
-I believe the best way to grow as a software developer is through building projects, solving problems, debugging code, and continuously improving my technical skills.
+Currently, I'm working with modern JavaScript technologies and strengthening my knowledge of software engineering, backend development, and AI-powered applications.
 
-I’m currently open to opportunities as a **Junior Software Engineer, Junior Full-Stack Developer, or Frontend Developer**, where I can contribute to a team, learn from experienced engineers, and grow as a software developer.
+### 🎯 What I'm Focused On
 
-**Tech I’m working with:**
-JavaScript | TypeScript | React | Next.js | Node.js | Express.js | MongoDB | REST APIs | JWT | HTML5 | CSS3 | Tailwind CSS | Git | GitHub
+- Building responsive and interactive web applications.
+- Developing frontend applications using React and Next.js.
+- Creating RESTful APIs with Node.js and Express.js.
+- Working with MongoDB and database operations.
+- Implementing authentication and authorization using JWT.
+- Improving problem-solving and software engineering fundamentals.
+- Exploring Artificial Intelligence and AI-powered applications.
+
+### 💡 My Development Philosophy
+
+I believe in learning by building. Every project gives me an opportunity to improve my coding skills, understand real-world problems, and become a better software developer.
+
+**Currently open to:** Junior Software Engineer | Junior Full-Stack Developer | Frontend Developer opportunities.
+
 ---
 
-# 🧰 Tech Stack
+## 🛠️ Technical Skills
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" alt="Programming Languages" />
 </p>
 
-* JavaScript (ES6+)
-* TypeScript
-* Python
-* C++
+- JavaScript (ES6+)
+- TypeScript
+- Python
+- C++
 
----
-
-## 🌐 Web Technologies
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" alt="Web Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend Technologies" />
 </p>
 
-* HTML5
-* CSS3
-* Responsive Web Design
-* REST API Integration
-* Modern JavaScript
+- HTML5 & CSS3
+- React.js
+- Next.js
+- Tailwind CSS
+- Responsive Web Design
+- React Router
+- REST API Integration
 
----
-
-## ⚛️ Frameworks & Libraries
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frameworks and Libraries" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
 </p>
 
-* React.js
-* Next.js
-* Tailwind CSS
-* React Router
-* React-based application development
+- Node.js
+- Express.js
+- RESTful API Development
+- Authentication & Authorization
+- JWT
+- Better Auth
 
----
-
-## 🗄️ Databases
+### 🗄️ Database Management
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Technologies" />
 </p>
 
-* MySQL
-* MongoDB
-* SQL
-* Database Fundamentals
-* CRUD Operations
+- MongoDB
+- MySQL
+- CRUD Operations
+- Database Fundamentals
 
----
-
-## 🧠 Computer Science & Software Engineering
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Problem Solving
-* Programming Fundamentals
-* Software Engineering Fundamentals
-* Database Fundamentals
-* API & Client-Server Architecture
-* Clean & Maintainable Code
-* Version Control
-* Debugging & Troubleshooting
-
----
-
-## 🛠️ Development Tools
+### 🔧 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" alt="Development Tools" />
 </p>
 
-* Git
-* GitHub
-* Visual Studio Code
-* Postman
-* npm
-* Figma
-* Chrome DevTools
+- Git & GitHub
+- Visual Studio Code
+- Postman
+- Figma
+- npm
+- Chrome DevTools
+
+### 🧠 Computer Science Fundamentals
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management
+- Problem Solving
+- Client-Server Architecture
+- Debugging & Troubleshooting
+- Software Engineering Fundamentals
+
+### 🤖 AI & Emerging Technologies
+
+- AI-assisted Development
+- AI Prompt Engineering
+- AI-powered Application Concepts
+- Exploring Artificial Intelligence
+- Exploring Machine Learning
 
 ---
 
-## 🤖 AI & Modern Technologies
+## 🚀 Featured Projects
 
-* AI Tools
-* AI Prompting
-* AI-assisted Development
-* AI-powered Application Concepts
-* Exploring Artificial Intelligence
-* Exploring Machine Learning
+### 1. 🌍 The Human Collective
 
----
+A social development events platform designed to help people discover, create, and participate in community-service activities.
 
-# 🚀 Featured Projects
+**Technologies:** Next.js, TypeScript, Tailwind CSS
 
- # 📰 Bangla News 24
+- [Live Demo](https://the-human-collective-client.vercel.app/)
+- [Client Repository](https://github.com/uzzal6090/the-human-collective-client)
+- [Server Repository](https://github.com/uzzal6090/the-human-collective-server)
 
- Live link:https://bangla-news-24-two.vercel.app/
+### 2. 📰 Bangla News 24
 
+A web-based news application built with modern frontend technologies and authentication integration.
 
-# Technologies Used
-Frontend
-Next.js
-React
-TypeScript
-Tailwind CSS
-HTML5
-CSS3
-# Backend & Authentication
-Better Auth
-MongoDB
-MongoDB Adapter for Better Auth
-API--
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Better Auth, MongoDB
 
+- [Live Demo](https://bangla-news-24-two.vercel.app/)
+- [Source Code](https://github.com/uzzal6090/bangla-news-24)
 
----
+### 3. 🛒 Bazar-Dor
 
-## 🧑‍💻 DevStack
-Live link: https://dev-stack-psi.vercel.app/
+A web development project built to strengthen my full-stack development skills through practical application development.
+
+**Technologies:** Next.js, MongoDB, Better Auth
+
+- [Live Demo](https://bazar-dor-indol.vercel.app/)
+- [Source Code](https://github.com/uzzal6090/bazar-dor)
+
+### 4. 💪 Fit Log
+
+A fitness-focused web application developed as part of my practical full-stack development journey.
+
+**Technologies:** Next.js, TypeScript
+
+- [Live Demo](https://fit-log-olive.vercel.app/)
+- [Source Code](https://github.com/uzzal6090/fit-log)
+
+### 5. 💻 Dev Stack
+
 A technology-focused web application that allows users to explore different technologies and build their preferred development stack.
 
-**Tech Stack:**
-`React` `TypeScript` `Tailwind CSS` `Vite`
+**Technologies:** React, TypeScript, Tailwind CSS, Vite
+
+- [Live Demo](https://dev-stack-psi.vercel.app/)
 
 ---
 
-## 🌐 Personal Portfolio
+## 📚 Currently Learning
 
-A personal portfolio website showcasing my skills, projects, learning journey, and development experience.
-Live link: https://my-portfolio-project-beta-umber.vercel.app/
-
----
-
-# 📖 Currently Learning
+I'm continuously improving my software development knowledge and exploring modern technologies.
 
 ```text
 Software Engineering
-        │
+        |
         ├── Programming Fundamentals
-        │
         ├── Data Structures & Algorithms
-        │
         ├── Object-Oriented Programming
-        │
         ├── JavaScript & TypeScript
-        │
         ├── React & Next.js
-        │
-        ├── Full-Stack Development
-        │
-        ├── Databases & APIs
-        │
-        └── AI-Powered Applications
+        ├── Node.js & Express.js
+        ├── Databases & REST APIs
+        ├── Authentication & Security
+        └── AI-powered Applications
 ```
 
-### Current Focus
+### My Current Goals
 
-* Building real-world software projects
-* Improving JavaScript & TypeScript
-* Learning advanced React concepts
-* Learning Next.js and modern web architecture
-* Strengthening Data Structures & Algorithms
-* Improving problem-solving skills
-* Learning backend and full-stack development
-* Understanding software engineering practices
-* Exploring AI-powered applications
+- Build more real-world full-stack applications.
+- Master advanced JavaScript and TypeScript concepts.
+- Improve React and Next.js architecture knowledge.
+- Strengthen backend development skills.
+- Improve Data Structures & Algorithms.
+- Learn software design principles and best practices.
+- Explore AI integration in modern applications.
 
 ---
 
-# 🎯 Career Vision
-
-My goal is to grow into a **strong and well-rounded Software Engineer** who can understand problems, design solutions, write maintainable code, and build reliable software applications.
-
-I want to continuously improve my:
-
-* Programming skills
-* Problem-solving ability
-* Software engineering mindset
-* System design understanding
-* Full-stack development skills
-* Knowledge of modern technologies
-
-Ultimately, I aim to combine **software engineering and AI** to build useful, scalable, and intelligent applications.
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=uzzal6090&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=uzzal6090&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Uzzal's GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzzal6090&layout=compact&hide_border=true" height="170" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzzal6090&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzzal6090&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+## 📈 GitHub Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzzal6090&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+## 🎯 Career Vision
 
-<div align="center">
+My long-term goal is to become a skilled Software Engineer capable of designing, developing, and maintaining reliable and scalable applications.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzzal6090&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+I'm particularly interested in combining **Full-Stack Software Development and Artificial Intelligence** to build meaningful solutions that solve real-world problems.
 
-</div>
+I value continuous learning, collaboration, clean code, and practical experience.
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-I am always interested in learning, collaborating, and working on interesting software projects.
+I'm always interested in connecting with developers, learning new technologies, collaborating on projects, and exploring exciting opportunities.
 
-<div align="center">
-
-<a href="https://github.com/uzzal6090">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/uzzal-hosen-b9ba12395/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:hsoenuzzal769@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/uzzal6090">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/uzzal-hosen-b9ba12395/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://my-portfolio-project-beta-umber.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:hosenuzzal769@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -292,6 +277,6 @@ I am always interested in learning, collaborating, and working on interesting so
 
 ### 💡 Build. Learn. Solve. Improve.
 
-⭐ Thanks for visiting my profile!
+**Thanks for visiting my GitHub profile!** ⭐
 
 </div>
